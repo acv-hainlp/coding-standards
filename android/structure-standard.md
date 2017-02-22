@@ -8,6 +8,8 @@
 	* widget
 	* adapter
 * service
+* di (Dependency Injection)
+* features
 * data
 	* remote
 	* local
