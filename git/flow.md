@@ -1,6 +1,7 @@
 ## Git flow
 
 Flow tham khảo: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+https://viblo.asia/kanamikiii/posts/ZabG9zy4vzY6
 
 ### Giả định
 * Đã tạo Central Repository (Nguồn trung tâm) trên Github(hoặc Bitbucket).
